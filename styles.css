@@ -1,0 +1,18 @@
+body {
+    width: 100%;
+    max-width: 1250px;
+    margin: auto;
+    font-family: serif;
+    font-size: 110%;
+    background-color: #80aaff;
+}
+
+head {
+    
+}
+
+figure {
+    font-size: 85%;
+    font-style: italic;
+
+}
